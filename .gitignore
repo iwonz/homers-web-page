@@ -1,0 +1,16 @@
+dist/
+
+package-lock.json
+
+# IntelliJ IDEA
+.idea/
+out/
+
+# VS Code
+.vscode/
+
+# Node dependency directory
+node_modules/
+
+# OSX
+**/.DS_Store
